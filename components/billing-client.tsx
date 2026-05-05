@@ -52,7 +52,7 @@ const plans = [
   {
     id: "LIFETIME",
     name: "Lifetime",
-    price: "$109",
+    price: "$79",
     period: "one-time",
     description: "Pay once, use forever",
     features: ["Everything in Elite", "Never pay again", "Early access features", "Lifetime support"],
