@@ -36,7 +36,7 @@ export const PRODUCTS: Product[] = [
     id: "LIFETIME",
     name: "Lifetime Access",
     description: "Pay once, use forever - All Elite features with lifetime access",
-    priceInCents: 10900, // $109
+    priceInCents: 7900, // $79
     interval: null, // One-time payment
   },
 ]
